@@ -6,7 +6,7 @@ This repository contains the test scripts. By running these scripts, you can rep
 
 code/   
  ├── dataset/                          #This directory contains the datasets for test.   
- ├── model/                            #This directory contains the models of.  
+ ├── model/                            #This directory contains the models of IRSTD.  
  ├── pth/                                 # This directory contains the pretrained weights and corresponding test results.   
  ├── test_xxxx.py                  # testing scripts.         
 
@@ -36,11 +36,11 @@ The NUAA-SIRST dataset can be downloaded form https://github.com/YimianDai/sirst
 Datasets should be put as the follow：
 
 dataset/        
- ├── IRSTD-1k/             
+ ├── IRSTD-1k/                   
 
- │   ├── 80_20/                  #Train/val split indices        
- │   ├── images/                       
- │   ├── masks /      	                  
+ │   ├── 80_20/                  #Train/val split indices.       
+ │   ├── images/                        
+ │   ├── masks /      	                    
 
 ​	...
 
