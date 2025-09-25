@@ -1,6 +1,6 @@
 ## DFRL for Single-Domain Generalization in Infrared Small Target Detection 
 
-This repository contains the test scripts. By running these scripts, you can reproduce the results presented in our paper. The complete training code and model implementation will be made publicly  available upon the completion of the review process.
+This repository contains the test scripts. By running these scripts, you can reproduce the results presented in our paper. **The complete training code and model implementation will be made publicly  available upon the completion of the review process.**
 
 ## Code Structure
 
