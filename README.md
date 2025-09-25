@@ -1,2 +1,0 @@
-# DFRL
-IRSTD for ICASSP
